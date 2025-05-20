@@ -1,0 +1,12 @@
+.idea/
+*.iml
+target
+logs
+.DS_Store
+.project
+.settings
+.classpath
+.factorypath
+*.pid
+.vscode
+upload
